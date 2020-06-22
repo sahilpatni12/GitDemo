@@ -16,7 +16,7 @@ public class StepDefinition {
 
 	@Given("^User is on Net Banking page$")
     public void user_is_on_net_banking_page() throws Throwable {
-		System.out.println("User is on login Page gitdemo");
+		System.out.println("User is on login Page gitstuff");
     }
 
 	@When("^User logins with username \"([^\"]*)\" and password \"([^\"]*)\"$")
